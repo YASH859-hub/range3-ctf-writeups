@@ -1,0 +1,6 @@
+challenge-1-xxe.md: expected 19; files 19
+challenge-2-ssti.md: expected 13; files 13
+challenge-3-pickle-deserialization.md: expected 20; files 20
+challenge-4-redis.md: expected 16; files 16
+challenge-5-cap-setuid.md: expected 7; files 7
+Total screenshots: 75
